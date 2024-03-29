@@ -1,2 +1,2 @@
-# mathrixpy
+# MathrixPy
 Mathematic Python project
